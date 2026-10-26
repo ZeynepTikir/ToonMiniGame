@@ -1,6 +1,10 @@
 # 🎮 Toon Mini Game (Altın Toplama Oyunu)
 
-Unity kullanılarak geliştirilmiş, toon çevre tasarımlarına ve animasyon geçişlerine sahip eğlenceli bir 3D mini platform / altın toplama oyunudur. Bu proje, oyun geliştirme temellerini pekiştirmek amacıyla bir sınav ödevi olarak hazırlanmıştır.
+Unity kullanılarak geliştirilmiş, toon çevre tasarımlarına ve animasyon geçişlerine sahip eğlenceli bir 3D mini platform / altın toplama oyunudur. Bu proje, oyun geliştirme temellerini pekiştirmek amacıyla  hazırlanmıştır.
+
+
+https://github.com/user-attachments/assets/99496885-5b9b-45a3-8cd6-c8b64a7ec5c8
+
 
 ---
 

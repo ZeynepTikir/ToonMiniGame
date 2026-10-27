@@ -3,7 +3,11 @@
 Unity kullanılarak geliştirilmiş, toon çevre tasarımlarına ve animasyon geçişlerine sahip eğlenceli bir 3D mini platform / altın toplama oyunudur. Bu proje, oyun geliştirme temellerini pekiştirmek amacıyla  hazırlanmıştır.
 
 
-https://github.com/user-attachments/assets/99496885-5b9b-45a3-8cd6-c8b64a7ec5c8
+
+
+https://github.com/user-attachments/assets/de081fb7-1b4b-4447-9f78-87fcf1bb479a
+
+
 
 
 ---
